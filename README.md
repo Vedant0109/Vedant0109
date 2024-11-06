@@ -3,7 +3,7 @@
 ### I'm a 15-year-old programmer learning Python, DSA, and web scraping!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Vedant0109&color=blue)  
-[![GitHub followers](https://img.shields.io/github/followers/Vedant_0109?label=Follow&style=social)](https://github.com/Vedant0109)
+[![GitHub followers](https://img.shields.io/github/followers/Vedant0109?label=Follow&style=social)](https://github.com/Vedant0109)
 
 ---
 
