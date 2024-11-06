@@ -2,8 +2,8 @@
 
 ### I'm a 15-year-old programmer learning Python, DSA, and web scraping!
 
-![Profile views](https://komarev.com/ghpvc/?username=Vedant_0109&color=blue)  
-[![GitHub followers](https://img.shields.io/github/followers/Vedant_0109?label=Follow&style=social)](https://github.com/Vedant_0109)
+![Profile views](https://komarev.com/ghpvc/?username=Vedant0109&color=blue)  
+[![GitHub followers](https://img.shields.io/github/followers/Vedant_0109?label=Follow&style=social)](https://github.com/Vedant0109)
 
 ---
 
@@ -15,8 +15,8 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant_0109&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant_0109&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0109&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant0109&layout=compact&theme=radical)
 
 ---
 
