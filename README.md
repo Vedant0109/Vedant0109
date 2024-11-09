@@ -27,7 +27,16 @@
 
 ### 🛠️ Tools & Technologies:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Flask logo](https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.png)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <g fill="none" stroke="black" stroke-width="2">
+    <!-- Flask body -->
+    <path d="M30,70 Q50,90 70,70 L70,40 Q50,20 30,40 Z" />
+    <!-- Neck of the Flask -->
+    <path d="M45,40 L55,40" />
+    <!-- Flask opening -->
+    <circle cx="50" cy="30" r="4" />
+  </g>
+</svg>
 
 ---
 
