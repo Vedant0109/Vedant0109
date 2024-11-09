@@ -27,7 +27,7 @@
 
 ### 🛠️ Tools & Technologies:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Flask Logo](https://link-to-flask-logo.png)
+![Flask logo](https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.png)
 
 ---
 
