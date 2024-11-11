@@ -30,6 +30,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-%2300C853?style=for-the-badge&logo=android&logoColor=white)
+![Replit Badge](https://img.shields.io/badge/Replit-%230D1117?style=for-the-badge&logo=replit&logoColor=white)
 ---
 
 ### 🏆 Fun Facts:
