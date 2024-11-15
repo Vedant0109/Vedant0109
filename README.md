@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) And Flask** with Python.
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** with Python.
 - 🔍 I’m also exploring **Flask** to learn Web Developement.
 - 💦 I'm intrested in backend [I dont like Frontend]
 - 💻 Tech Skills: **Python**
