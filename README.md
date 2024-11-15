@@ -8,15 +8,15 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** with Python.
-- 🔍 I’m also exploring **web develpement with Flask** to learn Web Developement.
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) And Flask** with Python.
+- 🔍 I’m also exploring **Flask** to learn Web Developement.
 - 💻 Tech Skills: **Python**
 
 ---
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0109&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant0109&layout=compact&theme=radical
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant0109&layout=compact&theme=radical)
 ---
 
 ### 🔗 Let's Connect
