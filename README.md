@@ -38,4 +38,6 @@
 - I’m only 15 and already diving deep into coding!
 - I’m building projects as I learn web development!
 
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant0109&theme=vue">
+
 ---
