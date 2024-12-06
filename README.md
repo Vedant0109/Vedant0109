@@ -17,6 +17,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant0109&show_icons=true&theme=radical)
+Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?
 ![username=Vedant0109&layout=compact&theme=radical)
 ---
 
