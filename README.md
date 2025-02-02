@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vedant Patil 
 
-### I'm a 15-year-old programmer learning Python, ML and DSA with python!
+### I'm a 15-year-old programmer learning Python, ML and DSA with C++!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Vedant0109&color=blue)  
 [![GitHub followers](https://img.shields.io/github/followers/Vedant0109?label=Follow&style=social)](https://github.com/Vedant0109)
@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** with Python.
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** with C++.
 - 🔍 I’m also exploring **ML Libraries** with python.
-- 💻 Tech Skills: **Python**
+- 💻 Tech Skills: **Python**, **C++** , **NumPy**
 
 ---
 
