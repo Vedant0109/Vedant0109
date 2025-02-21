@@ -27,10 +27,15 @@
 ### 🛠️ Tools & Technologies:
 <p align="center">
     <a href="https://github.com/Vedant0109/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,html,android,replit,termux,neovim,vim,cplusplus&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,html,android,replit,neovim,vim&perline=7" />
     </a>
 </p>
 
+<p align="center">
+    <!-- C++ and Termux with correct logos -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+    <img src="https://img.shields.io/badge/-Termux-2B2B2B?style=flat&logo=https://raw.githubusercontent.com/termux/termux.github.io/master/assets/img/termux_logo.svg&logoColor=white" />
+</p>
 
 ---
 
