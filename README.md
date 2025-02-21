@@ -25,11 +25,13 @@
 ---
 
 ### 🛠️ Tools & Technologies:
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Android Badge](https://img.shields.io/badge/Android-%2300C853?style=for-the-badge&logo=android&logoColor=white)
-![Replit Badge](https://img.shields.io/badge/Replit-%230D1117?style=for-the-badge&logo=replit&logoColor=white)
-![Termux Terminal](https://img.shields.io/badge/-Termux-2B2B2B?style=flat&logo=https://raw.githubusercontent.com/termux/termux.github.io/master/assets/img/termux_logo.svg&logoColor=white)
+<p align="center">
+    <a href="https://github.com/Vedant0109/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,html,android,replit,termux,neovim,vim,cplusplus&perline=13" />
+    </a>
+</p>
+
+
 ---
 
 ### 🏆 Fun Facts:
